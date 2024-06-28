@@ -3,8 +3,8 @@
 https://www.youtube.com/watch?v=ozKjpWZ-Z6w&list=PL5dTjWUk_cPZxyZuZdl8S0g4tbh-GL2Ro
 
 **GPT** -> Generative Pre-Trainer Transformer
-### Transfers
-- transformers enpower LLMs
+### Transformers
+- transformers empower LLMs
 - Something that transforms from one sequence to another
 - input -> encoder                  decoder -> output
 - sequence to sequence learning
