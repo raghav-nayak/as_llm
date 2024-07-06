@@ -17,3 +17,13 @@ e.g.
 adding python to the embeddings
 ![[Pasted image 20240706131505.png]]
 
+
+Two types of attentions
+- self attention
+	- **uses context** of a sentence and other words in the sentence **to resolve the ambiguity**
+- multi-head attention
+	- uses multiple embeddings of a model with  different variations
+	- it uses transform operations
+	![[Pasted image 20240706135956.png]]
+- it has some summation functions and linear transformations
+	![[Pasted image 20240706140031.png]]
